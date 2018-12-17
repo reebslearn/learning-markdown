@@ -22,7 +22,7 @@ development projects in Teradata.
 ## Technical Exposure
 Technology | Technology Stack
 -----------| ------------------
-Databases  |Teradata, Oracle, MySql
+Databases  | Teradata, Oracle, MySql
 Database Tools | Toad, SQL Developer, Teradata SQL Assistant, Wherescape Red,Wherescape 3D
 Programming Languages | PL/SQL, Unix Shell/Bash, Java, C
 Cloud Computing | Amazon Web Services (AWS)
@@ -31,8 +31,10 @@ Orchestration Tools | Control-M
 Methodologies | Agile[User Story], Waterfall
 
 ## Work Experience
-**Infosys (US Fashion Retailer as client)** April 2016 – December 2016 <br>
-Technology Analyst 9 Months
+***
+**Infosys (US Fashion Retailer as client)** *April 2016 – December 2016* <br>
+Technology Analyst - *9 Months*
+***
 
 **Project: NGEN 2** <br>
 **Duration**:  April 2016 to December 2016 <br>
@@ -40,12 +42,14 @@ Technology Analyst 9 Months
 This phase included the migration of only one division. My role was to build stored
 procedures which will help the business analyst for the prediction and forecast of item
 planning, sales and revenue. <br>
-Role and Responsibilities: <br>
-* Design and Developing the code in Teradata SQL Assistant and Wherescape Red
-* Preparing Unit Test Plan (UTP) and testing the code using Control-M
+Role and Responsibilities:
+ * Design and Developing the code in Teradata SQL Assistant and Wherescape Red
+ * Preparing Unit Test Plan (UTP) and testing the code using Control-M
 
+***
 **Infosys (US Fashion Retailer as client)** October 2013 – March 2016 <br>
 Senior Systems Engineer 2 years 6 months
+***
 
 **Project: Marketing Campaign Execution (MCE)** <br>
 **Duration**:  November 2015 to March 2016 <br>
@@ -109,8 +113,10 @@ Role and Responsibilities:
 * Design and Developing the code in Teradata SQL Assistant
 * Preparing Unit Test Plan (UTP) and testing the code using Control-M
 
+***
 **Infosys (US Fashion Retailer as client)** December 2011 – September 2013 <br>
 Systems Engineer 1 year 9 months
+***
 
 **Project: CKW (Customer Knowledge Warehouse) BOW** <br>
 **Duration**:  December 2012 to October 2013 <br>
@@ -141,8 +147,10 @@ Role and Responsibilities:
 * Design and Developing the code in AS400
 * Preparing Unit Test Plan (UTP) and testing
 
+***
 **Infosys** August 2011 – November 2011 <br>
 Systems Engineer Trainee 4 months
+***
 
 **Project: Infosys Library Management System (ILMS)** <br>
 **Duration**: August 2011 to November 2011 <br>
