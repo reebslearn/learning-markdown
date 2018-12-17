@@ -148,8 +148,8 @@ Role and Responsibilities:
 * Preparing Unit Test Plan (UTP) and testing
 
 ***
-**Infosys** August 2011 – November 2011 <br>
-Systems Engineer Trainee 4 months
+**Infosys** *August 2011 – November 2011* <br>
+Systems Engineer Trainee - *4 months*
 ***
 
 **Project: Infosys Library Management System (ILMS)** <br>
