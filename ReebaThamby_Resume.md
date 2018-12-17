@@ -47,8 +47,8 @@ Role and Responsibilities:
  * Preparing Unit Test Plan (UTP) and testing the code using Control-M
 
 ***
-**Infosys (US Fashion Retailer as client)** October 2013 – March 2016 <br>
-Senior Systems Engineer 2 years 6 months
+**Infosys (US Fashion Retailer as client)** *October 2013 – March 2016* <br>
+Senior Systems Engineer - *2 years 6 months*
 ***
 
 **Project: Marketing Campaign Execution (MCE)** <br>
@@ -114,8 +114,8 @@ Role and Responsibilities:
 * Preparing Unit Test Plan (UTP) and testing the code using Control-M
 
 ***
-**Infosys (US Fashion Retailer as client)** December 2011 – September 2013 <br>
-Systems Engineer 1 year 9 months
+**Infosys (US Fashion Retailer as client)** *December 2011 – September 2013* <br>
+Systems Engineer - *1 year 9 months*
 ***
 
 **Project: CKW (Customer Knowledge Warehouse) BOW** <br>
