@@ -147,3 +147,26 @@ Systems Engineer Trainee 4 months
 **Project: Infosys Library Management System (ILMS)** <br>
 **Duration**: August 2011 to November 2011 <br>
 **Description**: Development and testing of internal project of the library management system.
+
+## Education
+**MAHATMA GANDHI UNIVERSITY** Kottayam, India <br>
+**Bachelor of Technology in Computer Science &amp; Engineering** August 2007 – May 2011 <br>
+Viswajyothi College of Engineering &amp; Technology, Vazhakulam <br>
+Result: **79.20% (First Class with Distinction)** <br>
+Grading System: Maximum score 100%, Minimum passing score 50% <br>
+Medium of Instruction: English <br>
+
+**KERALA STATE BOARD OF HIGHER SECONDARY EDUCATION** <br>
+Kerala State Higher Secondary Examination May 2007 <br>
+M K M Higher Secondary School, Piravom, Kerala <br>
+Result: **91.5% (Distinction)** <br>
+Grading System: Maximum score 100%, Minimum passing score 35% <br>
+Medium of Instruction: English
+
+**KERALA STATE SECONDARY SCHOOL EXAMINATION** <br>
+Secondary School Leaving Examination May 2005 <br>
+Fatima Matha E M H S S, Piravom, Kerala <br>
+Result: **92.5% (Distinction)** <br>
+Grading System: Maximum score 100%, Minimum passing score 35% <br>
+Medium of Instruction: English
+
