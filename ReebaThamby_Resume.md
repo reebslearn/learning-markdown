@@ -109,41 +109,41 @@ Role and Responsibilities:
 * Design and Developing the code in Teradata SQL Assistant
 * Preparing Unit Test Plan (UTP) and testing the code using Control-M
 
-Infosys (US Fashion Retailer as client) December 2011 – September 2013
+**Infosys (US Fashion Retailer as client)** December 2011 – September 2013 <br>
 Systems Engineer 1 year 9 months
 
-Project: CKW (Customer Knowledge Warehouse) BOW
-Duration:  December 2012 to October 2013
-Description: The Project aimed to build and enhance relationships with customers by
+**Project: CKW (Customer Knowledge Warehouse) BOW** <br>
+**Duration**:  December 2012 to October 2013 <br>
+**Description**: The Project aimed to build and enhance relationships with customers by
 providing integrated customer information from all available Client System Sources. It
 enhanced customer data through improved business rules and processes. It also improved
 Customer Service, Customer Information, and the effectiveness and efficiency in Marketing
 and operational processes through the use of a well-developed and flexible Customer Centric
-database.
+database. <br>
 Role and Responsibilities:
- Design and Developing the code in Toad
- Preparing Unit Test Plan (UTP) and testing the code using Control-M
-Project: MFill (Mobile Fulfillment)
-Duration:  August 2012 to November 2012
-Description: Building a micro service in Java, Spring framework to wire an incoming order
+* Design and Developing the code in Toad
+* Preparing Unit Test Plan (UTP) and testing the code using Control-M
+
+**Project: MFill (Mobile Fulfillment)** <br>
+**Duration**:  August 2012 to November 2012 <br>
+**Description**: Building a micro service in Java, Spring framework to wire an incoming order
 information and enrich the information with nearest Fulfillment store based on customer
-location.
+location. <br>
 Role and Responsibilities:
- Module implementation
- Preparing Unit Test Plan (UTP) and unit testing
+* Module implementation
+* Preparing Unit Test Plan (UTP) and unit testing
 
-Project: PKMS (Pick Ticket Management System)
-Duration: December 2011 to August 2012
-Description: This project handled the inventory movement, such as receiving merchandise,
-inventory transactions, picking and packing and shipping merchandise to a customer.
+**Project: PKMS (Pick Ticket Management System)** <br>
+**Duration**: December 2011 to August 2012 <br>
+**Description**: This project handled the inventory movement, such as receiving merchandise,
+inventory transactions, picking and packing and shipping merchandise to a customer. <br>
 Role and Responsibilities:
- Design and Developing the code in AS400
+* Design and Developing the code in AS400
+* Preparing Unit Test Plan (UTP) and testing
 
- Preparing Unit Test Plan (UTP) and testing
-
-Infosys August 2011 – November 2011
+**Infosys** August 2011 – November 2011 <br>
 Systems Engineer Trainee 4 months
 
-Project: Infosys Library Management System (ILMS)
-Duration: August 2011 to November 2011
-Description: Development and testing of internal project of the library management system.
+**Project: Infosys Library Management System (ILMS)** <br>
+**Duration**: August 2011 to November 2011 <br>
+**Description**: Development and testing of internal project of the library management system.
